@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./frontend/pages/index.tsx"],"names":["Main"],"mappings":"0FAAA,oBACeA,YAAf","file":"component---frontend-pages-index-tsx-d6076c180bf40f96e093.js","sourcesContent":["import Main from '../components/main'\nexport default Main\n"],"sourceRoot":""}
